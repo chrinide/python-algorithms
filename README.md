@@ -21,3 +21,14 @@ Algorithm and Data Structure in Python
 ### References:
 1. https://github.com/bt3gl/Python-and-Algorithms-and-Data-Structures/tree/master/book
 2. http://multimedia.ucc.ie/Public/training/cycle1/algorithms-in-python.pdf
+
+
+
+
+
+
+### Other Books:
+![alt tag](http://knuth.luther.edu/~leekent/CS2Plus/_static/csbook.JPG)
+
+ 1. source codes( http://knuth.luther.edu/~leekent/CS2Plus/)
+
